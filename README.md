@@ -31,5 +31,5 @@ O projeto foi estruturado com base no **Mobile First**, utilizando:
 
 ## 🔗 Acesse o projeto
 
-Você pode visualizar o projeto publicado 
-
+Você pode visualizar o projeto publicado [
+](https://hidegyp.github.io/Alura-Books/)
